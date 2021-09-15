@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semeador</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="imagens/ico.jfif" type="image/x-icon">
+    <link rel="stylesheet" href="header.html">
+</head>
+<body>
+    <header>
+        <div class="supeior"> 
+            <a href="https://www.youtube.com/channel/UCsLEILXAp-zZlU6efih13-Q" target="_blank"><img src="imagens/kisspng-youtube-logo-computer-icons-5adcd5332b87b3.1566785315244219391783.png" width="50" alt="Link do Youtube"></a> 
+            <a href="https://www.facebook.com/gesemeador83" target="_blank"> <img src="imagens/pngwing.com.png" width="50" alt="Link do facebock"></a>
+        </div>
+        <h1> GREMIO ESPORTIVO SEMEADOR <img src="imagens/escudosemfundo2.png" alt="A coruja do time" width="80"></h1>
+        <div class="inferior"> 
+            <a href="index.html"> Inicio</a>
+            <a href="campo.html"> Campo </a>
+            <a href="eqm.html"> Equipe Masculina      </a>
+            <a href="eqf.html"> Equipe Feminina      </a>
+            <a href="exm.html"> Atletas e ex-atletas Maculinos </a>
+            <a href="exf.html"> Atletas e ex-atletas Feminino </a>
+            <a href="diretoria.html"> Diretoria</a>
+            <a href="histotico.html"> Historico</a>
+        </div>
+    </header>
+    <main>
+        <article>
+            <h1>PROJETO SEMEADOR.</h1>
+
+<h2>1-	Introdução:</h2>
+<p>
+    O futebol é uma paixão nacional. E não poderia ser diferente com as meninas.
+    O futebol feminino, cresce a cada dia. O número de praticantes e telespectadores, aumenta nas mesmas proporções. Visto recentemente, nas Olimpíadas Rio 2016 e na Copa do Mundo.
+    O PROJETO SEMEADOR, visa a formação da criança e do adolescente utilizando-se do esporte como elemento integralizador destas com a sociedade.
+    Nosso projeto integra a Starcoop Cooperativa de Profissionais do Futebol e Desenvolvimento Social.
+    No acompanhamento do desenvolvimento físico-psico-social, deverá ser levado em conta o contexto econômico, bem como as características individuais da personalidade de cada criança, de forma a estimulá-las e orientá-las no campo profissional, como desportista ou não. Buscando-se, para isto, a parceria com instituições afins que viabilizem este PROJETO.
+</p>
+    <aside>
+        <ul>
+            <li> Físico (saúde): educador físico e profissional da área médica.</li>
+            <li> Social (econômico/religioso): assistente social e sociólogos.</li>
+            <li> Psicológico (desvio comportamental) psicólogos com trabalho em terapia ou atendimento.</li>
+            <li> Educacional (aptidões profissionais): orientador educacional.</li>
+        </ul>
+    </aside>
+
+    <img src="imagens/tabela1.png" width="" alt="">
+    
+	<p>As Fichas com os acompanhamentos e identificação de problemas serão discutidas periodicamente em reunião conjunta.</p>
+
+<h2>PROJETO FEMININO.</h2>
+
+<h3>1-	Apresentação:</h3>
+<p>   
+    Toda e qualquer Cidade do país tem sua manifestação cultural e esportiva, destacando-se o futebol. A Cidade de Itaboraí despontou para o cenário nacional com sua atleta conhecida como Tatá, campeã pan-americana com a seleção brasileira de futebol feminino. Jogadora originária do Esporte Clube Comercial. O próprio G. E. Semeador já teve em seus quadros as atletas Rayane e a eterna “Ratinha” campeãs internacionais de futebol de sete. Hoje, no cenário nacional, atletas que já atuaram pelo G. E. Semeador temos no São Paulo F. C. a zagueira Dyneffer Silva, no Fluminense F. C. a zagueira Thayna Monique e as meias campistas Andresa Ferreira, Lene e Maria Luiza, todas vice-campeãs estaduais em 2018 pelo Duque de Caxias F. C. e temos ainda as atletas Thaisa que, segundo últimas informações, se encontra no C. R. Vasco da Gama.
+    Sabe-se que o futebol, além de um esporte, é um catalisador social que integra o ser humano na sociedade, fazendo-o participativo, bem como, possibilitando hoje em dia uma promissora carreira, constituindo-se, portanto, um trabalho de desmarginalização social.
+</p>
+
+    <h3>2- Proposta:</h3>
+<p>
+    O projeto, ora exposto, visa basicamente:
+    Promover a integração social, valorizando-se a família e a cidadania, através das instituições e espaços existentes no Município, reestruturando e direcionando esforços.
+    Dar condições ao G. E. Semeador de preparar melhor suas atletas oferecendo-lhes infraestrutura mínima (campo para treino), assessoria técnica (trabalho em conjunto de preparação física), acompanhamento social (convênio com o serviço Social, visando desenvolver o trabalho junto a família dos atletas).
+    Prestigiar os campeonatos oficiais organizados pela LDI (Liga Desportiva de Itaboraí) proporcionando, o apoio material e a divulgação desses eventos, além de participação em certames de nível regional, estadual e nacional.
+</p>
+
+<h3>3 – Providências e Meios: </h3>
+<p>
+    Legalização da equipe (CNPJ, Inscrição Municipal e Alvará da FERJ).
+    Realização de acompanhamento sócio-psicológico.
+    Oferecer aos integrantes do projeto, os programas como por exemplo o acompanhamento médico, matrícula da rede municipal de ensino, etc.
+    Disponibilizar transporte para jogos realizados fora dos limites do município, em especial os organizados pela FERJ.
+    O Grêmio Esportivo Semeador oferecerá acompanhamento social à família das crianças atendidas, bem como instrutores de futebol, e assessoria jurídica.
+</p>
+
+<h3>4 – Conclusão.</h3>
+<p>
+    Mas só a vontade, não basta! Precisamos de investidores e parceiros. Por isso entramos em contato com a sua empresa. Uma marca forte, que através de pesquisa, constatamos que é uma marca socialmente responsável, que pensa no bem-estar da cidade, dos seus cidadãos e contribui para o seu crescimento e desenvolvimento.
+    Em troca, daremos visibilidade à sua marca nas camisas das atletas e comissão técnica, nos banners em treinos e jogos que participarmos, no “Facebook” através de nossas páginas e perfis, e no “Youtube” através de nosso canal.
+    O fato acima refere-se àquelas pessoas envolvidas diretamente com a prática do futebol. Levando-se em conta que, um projeto bem elaborado trará uma popularidade maior aos atletas, aumentando consideravelmente a área populacional atingida, como vizinhos, amigos, etc.
+</p>
+
+
+
+
+            
+        </article>
+    </main>
+    <footer>
+        <p> Criado por Artur Butler 21-9675-2588 <img src="imagens/0019-1.png" alt="WhatZap" width="20"></p>
+    </footer>
+</body>
+</html>
